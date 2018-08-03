@@ -1,0 +1,7 @@
+[ghq]
+	root = /Users/masahiro331/work/src
+[user]
+	email = m_fujimura@r.recruit.co.jp
+	name = masahiro331
+[alias]
+	graph = log --graph --all --oneline --decorate=full -120 --date=short --format=\"%C(yellow)%h%C(reset) %C(magenta)[%ad]%C(reset)%C(auto)%d%C(reset) %s %C(cyan)@%an%C(reset)\"
